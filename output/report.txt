@@ -1,0 +1,6 @@
+avarage score: 87.0
+Highest Student:     Eve - 95
+    Eve - 95
+    Bob - 90
+    Alice - 85
+    David - 78
